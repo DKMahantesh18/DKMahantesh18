@@ -107,7 +107,7 @@ A machine learning application that recommends suitable crops based on agricultu
 
 💻 **GitHub:** https://github.com/DKMahantesh18
 
-🔗 **LinkedIn:** [Add your LinkedIn profile URL here]
+🔗 **LinkedIn:** www.linkedin.com/in/dk-mahantesh-01ab07329
 
 ---
 
